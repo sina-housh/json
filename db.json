@@ -1,8 +1,7 @@
 
 {
         "menu":[
-            {"id":1,"tittel":"خانه","link":"#"},
-            {"id":2,"tittel":" لوازم جانبی موبایل و کامپیوتر","link":"#","dropdown":[
+            {"id":1,"tittel":" لوازم جانبی موبایل و کامپیوتر","link":"#","dropdown":[
                 {"id":1,"name":"ماوس و کیبورد و پدموس","link":"#"},
                 {"id":2,"name":"اسپیکر","link":"#"},
                 {"id":3,"name":"تجهیزات ذخیره سازی","link":"#","dropdown":[
@@ -22,12 +21,12 @@
                 {"id":13,"name":"فن خنک کننده کامپیوتر","link":"#"},
                 {"id":14,"name":"قاب و گلس","link":"#"}
             ]},
-            {"id":3,"tittel":" کابل - مبدل - رابط","link":"#","dropdown":[]},
-            {"id":4,"tittel":"لوازم تولید محتوا ","link":"#","dropdown":[]},
-            {"id":5,"tittel":" لوازم شبکه","link":"#","dropdown":[]},
-            {"id":6,"tittel":"کنسول بازی و لوازم جانبی","link":"#","dropdown":[]},
-            {"id":7,"tittel":"لوازم خانگی و شخصی","link":"#","dropdown":[]},
-            {"id":8,"tittel":" برند‌ها","link":"#","dropdown":[]}
+            {"id":2,"tittel":" کابل - مبدل - رابط","link":"#","dropdown":[]},
+            {"id":3,"tittel":"لوازم تولید محتوا ","link":"#","dropdown":[]},
+            {"id":4,"tittel":" لوازم شبکه","link":"#","dropdown":[]},
+            {"id":5,"tittel":"کنسول بازی و لوازم جانبی","link":"#","dropdown":[]},
+            {"id":6,"tittel":"لوازم خانگی و شخصی","link":"#","dropdown":[]},
+            {"id":7,"tittel":" برند‌ها","link":"#","dropdown":[]}
         ],
         "slider":[
             {"id":1,"link":"./src/images/slider/slider-1.jpg","alt":"پاورژلی"},
