@@ -1,0 +1,51 @@
+
+{
+        "menu":[
+            {"id":1,"tittel":"خانه","link":"#"},
+            {"id":2,"tittel":" لوازم جانبی موبایل و کامپیوتر","link":"#","dropdown":[
+                {"id":1,"name":"ماوس و کیبورد و پدموس","link":"#"},
+                {"id":2,"name":"اسپیکر","link":"#"},
+                {"id":3,"name":"تجهیزات ذخیره سازی","link":"#","dropdown":[
+                    {"id":1,"name":"فلش مموری","link":"#"},
+                    {"id":2,"name":"کارت حافظه","link":"#"},
+                    {"id":3,"name":"هارد اکسترنال","link":"#"}
+                ]},
+                {"id":4,"name":"هولدر و نگهدارنده","link":"#"},
+                {"id":5,"name":"کابل شارژ","link":"#"},
+                {"id":6,"name":"آداپتور و شارژر","link":"#"},
+                {"id":7,"name":"هندزفری و هدست، میکروفون","link":"#"},
+                {"id":8,"name":"پاوربانک و جامپ استارتر","link":"#"},
+                {"id":9,"name":"دسته بازی و خنک کننده موبایل","link":"#"},
+                {"id":10,"name":"انواع تبدیل برق","link":"#"},
+                {"id":11,"name":"کابل و دانگل انتقال تصویر","link":"#"},
+                {"id":12,"name":"انواع هاب","link":"#"},
+                {"id":13,"name":"فن خنک کننده کامپیوتر","link":"#"},
+                {"id":14,"name":"قاب و گلس","link":"#"}
+            ]},
+            {"id":3,"tittel":" کابل - مبدل - رابط","link":"#","dropdown":[]},
+            {"id":4,"tittel":"لوازم تولید محتوا ","link":"#","dropdown":[]},
+            {"id":5,"tittel":" لوازم شبکه","link":"#","dropdown":[]},
+            {"id":6,"tittel":"کنسول بازی و لوازم جانبی","link":"#","dropdown":[]},
+            {"id":7,"tittel":"لوازم خانگی و شخصی","link":"#","dropdown":[]},
+            {"id":8,"tittel":" برند‌ها","link":"#","dropdown":[]}
+        ],
+        "slider":[
+            {"id":1,"link":"./src/images/slider/slider-1.jpg","alt":"پاورژلی"},
+            {"id":2,"link":"./src/images/slider/slider-3.jpg","alt":"پاوربانک"},
+            {"id":3,"link":"./src/images/slider/slider-3.jpg","alt":"سیم شارزر"}
+        ],
+        "offer":[
+            {"id":1,"tittel":"هندزفری بلوتوثی دورگردنی مک دودو مدل Mcdodo HP-0210","image":"./src/images/off/off-1.png","price":"1,790,000","rating":{"del":"2,090,000","rate":"300,000" }},
+
+            {"id":2,"tittel":"پاوربانک 5000 میلی آمپر با سوکت تایپ سی ایس فست مدل AceFast M9","image":"./src/images/off/off-2.png","price":"1,440,000","rating":{"del":"1,740,000","rate":"300,000" }},
+
+            {"id":3,"tittel":"پاوربانک 20000 میلی آمپر 87 واتی انکر مدل Anker A1383","image":"./src/images/off/off-3.png","price":"4,597,000","rating":{"del":"5,144,000","rate":"547,000" }},
+
+            {"id":4,"tittel":" کیت تمیز کننده Screen Cleaner سومو مدل Somo SM450","image":"./src/images/off/off-4.png","price":"85,000","rating":{"del":"115,000","rate":"30,000" }},
+
+            {"id":5,"tittel":"پاوربانک 20000 میلی آمپر 22.5 واتی انکر مدل Anker A1647H11","image":"./src/images/off/off-5.png","price":"2,840,000","rating":{"del":"3,040,000","rate":"200,000" }}
+           
+        ]
+            
+           
+}
