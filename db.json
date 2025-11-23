@@ -1,7 +1,8 @@
 
 {
         "menu":[
-            {"id":1,"tittel":"خانه","link":"#"},
+            {"id": 1,"tittel": "خانه", "link": "#","style": "Shabnam lg:text-[#FE5F55] lg:text-[14px]","containerClass": "lg:w-fit lg:h-[54px] lg:py-[16px] flex flex-col lg:relative","underline": "<span class='lg:w-[24px] lg:h-[3px] bg-[#FE5F55] lg:absolute bottom-0'></span>"},
+
             {"id":2,"tittel":" لوازم جانبی موبایل و کامپیوتر","images":"./src/svg/header/header-3.svg","link":"#","dropdown":[
                 {"id":1,"name":"ماوس و کیبورد و پدموس","link":"#"},
                 {"id":2,"name":"اسپیکر","link":"#"},
