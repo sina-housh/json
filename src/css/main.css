@@ -1,0 +1,48 @@
+@import "tailwindcss";
+/* @plugin "daisyui"; */
+@font-face {
+  font-family: Shabnam;
+  src: url(../fonts/Shabnam-Bold-FD.eot);
+  src: url(../fonts/Shabnam-Bold-FD.ttf);
+  src: url(../fonts/Shabnam-Bold-FD.woff);
+  src: url(../fonts/Shabnam-Bold-FD.woff2);
+}
+.Shabnam {
+  font-family: Shabnam;
+}
+@theme {
+  --font-family: Shabnam;
+}
+.slider {
+  .swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #444;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .swiper-pagination-bullet-active {
+      font-size: 40px;
+    }
+    .swiper-pagination-bullet {
+      font-size: 50px;
+      color: aqua;
+      width: 20px !important;
+      height: 20px !important;
+      background-color: green;
+    }
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+}
