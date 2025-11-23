@@ -5,7 +5,7 @@
             {"id":2,"tittel":" لوازم جانبی موبایل و کامپیوتر","images":"./src/svg/header/header-3.svg","link":"#","dropdown":[
                 {"id":1,"name":"ماوس و کیبورد و پدموس","link":"#"},
                 {"id":2,"name":"اسپیکر","link":"#"},
-                {"id":3,"name":"تجهیزات ذخیره سازی","image":"./src/svg/header/header-8.svg" ,"link":"#","drface":[
+                {"id":3,"name":"تجهیزات ذخیره سازی","image":"./src/svg/header/header-9.svg" ,"link":"#","drface":[
                     {"id":1,"namee":"فلش مموری","linkk":"#"},
                     {"id":2,"namee":"کارت حافظه","linkk":"#"},
                     {"id":3,"namee":"هارد اکسترنال","linkk":"#"}
