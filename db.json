@@ -32,7 +32,7 @@
         ],
         "slider":[
             {"id":1,"link":"./src/images/slider/slider-1.jpg","alt":"پاورژلی"},
-            {"id":2,"link":"./src/images/slider/slider-3.jpg","alt":"پاوربانک"},
+            {"id":2,"link":"./src/images/slider/slider-2.jpg","alt":"پاوربانک"},
             {"id":3,"link":"./src/images/slider/slider-3.jpg","alt":"سیم شارزر"}
         ],
         "offer":[
