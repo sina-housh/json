@@ -46,7 +46,17 @@
 
             {"id":5,"tittel":"پاوربانک 20000 میلی آمپر 22.5 واتی انکر مدل Anker A1647H11","image":"./src/images/off/off-5.png","price":"2,840,000","rating":{"del":"3,040,000","rate":"200,000" }}
            
+        ],
+        "slider_2":[
+            {"id":1,"link":"#","image":"./src/images/slider_2/slider-1.png","alt":"کابل شارژ"},
+            {"id":2,"link":"#","image":"./src/images/slider_2/slider-2.png","alt":"آداپتور و شارژر"},
+            {"id":3,"link":"#","image":"./src/images/slider_2/slider-3.png","alt":"پاوربانک و جامپ استارتر"},
+            {"id":4,"link":"#","image":"./src/images/slider_2/slider-4.png","alt":"هندزفری و هدست، میکروفون"},
+            {"id":5,"link":"#","image":"./src/images/slider_2/slider-5.png","alt":"هولدر و نگهدارنده"},
+            {"id":6,"link":"#","image":"./src/images/slider_2/slider-6.png","alt":"کابل - مبدل - رابط "},
+            {"id":7,"link":"#","image":"./src/images/slider_2/slider-7.png","alt":"باتری و شارژر"},
+            {"id":8,"link":"#","image":"./src/images/slider_2/slider-8.png","alt":"کنسول بازی و لوازم جانبی"}
         ]
-            
+        
            
 }
