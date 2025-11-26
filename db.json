@@ -58,25 +58,25 @@
             {"id":8,"link":"#","image":"./src/images/slider_2/slider-8.png","alt":"کنسول بازی و لوازم جانبی"}
         ],
         "slider_3":[
-            {"id":1,"firstTittel":"کابل شارژ  تایپ سی به لایتنینگ","tittel":" کابل شارژ مگنتی تایپ سی به لایتنین...","rating":{"del":"680,000","price":"650,000","toman":"تومان"},"img":"./src/images/slider_3/img-1.png","alt":"کابل شارژ مگنتی تایپ سی به لایتنینگ 36 واتی مک دودو مدل Mcdodo CA-2010","classes":"","non":"ناموجود"},
+            {"id":1,"firstTittel":"کابل شارژ  تایپ سی به لایتنینگ","tittel":" کابل شارژ مگنتی تایپ سی به لایتنین...","rating":{"del":"680,000","price":"650,000","toman":"تومان"},"img":"./src/images/slider_3/img-1.png","alt":"کابل شارژ مگنتی تایپ سی به لایتنینگ 36 واتی مک دودو مدل Mcdodo CA-2010","classes":"","non":""},
 
-            {"id":2,"firstTittel":"پاوربانک و جامپ استارتر","tittel":"پاوربانک وایرلس شارژ سولار 27000 م...","rating":{"del":"3,900,000","price":"3,685,000","toman":"تومان"},"img":"./src/images/slider_3/img-2.png","alt":"پاوربانک وایرلس شارژ سولار 27000 میلی آمپر پاورولوژی PP077 مدل Powerology PPBCHA77","classes":"","non":"ناموجود"},
+            {"id":2,"firstTittel":"پاوربانک و جامپ استارتر","tittel":"پاوربانک وایرلس شارژ سولار 27000 م...","rating":{"del":"3,900,000","price":"3,685,000","toman":"تومان"},"img":"./src/images/slider_3/img-2.png","alt":"پاوربانک وایرلس شارژ سولار 27000 میلی آمپر پاورولوژی PP077 مدل Powerology PPBCHA77","classes":"","non":""},
             
             {"id":3,"firstTittel":"انواع گجت های جذاب","tittel":"ماساژور توپی گرین مدل Green Lion G...","rating":{"del":"","price":"","toman":""},"img":"./src/images/slider_3/img-3.png","alt":"ماساژور توپی گرین مدل Green Lion GNMABALLBK","classes":"w-full h-[61px] mt-[9px] lg:mt-0 flex justify-center items-center bg-[#9b2c2c]/10 Shabnam text-[#9b2c2c] text-[14px]","non":"ناموجود"},
 
             {"id":4,"firstTittel":"لوازم خانگی و شخصی","tittel":"جویسر 600 میلی لیتر گرین مدل Green...","rating":{"del":"","price":"","toman":""},"img":"./src/images/slider_3/img-4.png","alt":"جویسر 600 میلی لیتر گرین مدل Green Lion GNPJ7BLDRBK","classes":"w-full h-[61px] mt-[9px] lg:mt-0 flex justify-center items-center bg-[#9b2c2c]/10 Shabnam text-[#9b2c2c] text-[14px]","non":"ناموجود"},
 
-            {"id":5,"firstTittel":"انواع گجت های جذاب","tittel":"پمپ باد گرین INFLATOR مدل Green Li...","rating":{"del":"680,000","price":"650,000","toman":"تومان"},"img":"./src/images/slider_3/img-5.png","alt":"پمپ باد گرین INFLATOR مدل Green Lion GNTYIRNFBK","classes":"","non":"ناموجود"},
+            {"id":5,"firstTittel":"انواع گجت های جذاب","tittel":"پمپ باد گرین INFLATOR مدل Green Li...","rating":{"del":"680,000","price":"650,000","toman":"تومان"},"img":"./src/images/slider_3/img-5.png","alt":"پمپ باد گرین INFLATOR مدل Green Lion GNTYIRNFBK","classes":"","non":""},
 
-            {"id":6,"firstTittel":"رابط برق و USB","tittel":"پمپ باد گرین INFLATOR مدل Green Li...","rating":{"del":"","price":"","toman":""},"img":"./src/images/slider_3/img-6.png","alt":"پمپ باد گرین INFLATOR مدل Green Lion GNTYIRNFBK","classes":"w-full h-[61px] mt-[9px] lg:mt-0 flex justify-center items-center bg-[#9b2c2c]/10 Shabnam text-[#9b2c2c] text-[14px]","non":"ناموجود"},
+            {"id":6,"firstTittel":"رابط برق و USB","tittel":"پمپ باد گرین INFLATOR مدل Green Li...","rating":{"del":"","price":"","toman":""},"img":"./src/images/slider_3/img-6.png","alt":"پمپ باد گرین INFLATOR مدل Green Lion GNTYIRNFBK","classes":"w-full h-[61px] mt-[9px] lg:mt-0 flex justify-center items-center bg-[#9b2c2c]/10 Shabnam text-[#9b2c2c] text-[14px]","non":"ناوجود"},
 
-            {"id":7,"firstTittel":"شارژر رومیزی","tittel":"شارژر رومیزی 140 واتی الدینیو مدل ...","rating":{"del":"","price":"2,395,000","toman":"تومان"},"img":"./src/images/slider_3/img-7.png","alt":"","classes":"","non":"ناموجود"},
+            {"id":7,"firstTittel":"شارژر رومیزی","tittel":"شارژر رومیزی 140 واتی الدینیو مدل ...","rating":{"del":"","price":"2,395,000","toman":"تومان"},"img":"./src/images/slider_3/img-7.png","alt":"","classes":"","non":""},
             
             {"id":8,"firstTittel":"انواع گجت های جذاب","tittel":"جت فن 150 واتی گرین مدل Green Lion...","rating":{"del":"","price":"","toman":""},"img":"./src/images/slider_3/img-8.png","alt":"","classes":"w-full h-[61px] mt-[9px] lg:mt-0 flex justify-center items-center bg-[#9b2c2c]/10 Shabnam text-[#9b2c2c] text-[14px]","non":"ناموجود"},
 
-            {"id":9,"firstTittel":"پاوربانک و جامپ استارتر","tittel":"پاوربانک 27600 میلی آمپر 130 واتی ...","rating":{"del":"6,030,000","price":"5,890,000","toman":"تومان"},"img":"./src/images/slider_3/img-9.png","alt":"","classes":"","non":"ناموجود"},
+            {"id":9,"firstTittel":"پاوربانک و جامپ استارتر","tittel":"پاوربانک 27600 میلی آمپر 130 واتی ...","rating":{"del":"6,030,000","price":"5,890,000","toman":"تومان"},"img":"./src/images/slider_3/img-9.png","alt":"","classes":"","non":""},
 
-            {"id":10,"firstTittel":"شارژر دیواری","tittel":"شارژر دیواری 20 واتی به همراه کابل...","rating":{"del":"","price":"950,000","toman":"تومان"},"img":"./src/images/slider_3/img-10.png","alt":"","classes":"","non":"ناموجود"},
+            {"id":10,"firstTittel":"شارژر دیواری","tittel":"شارژر دیواری 20 واتی به همراه کابل...","rating":{"del":"","price":"950,000","toman":"تومان"},"img":"./src/images/slider_3/img-10.png","alt":"","classes":"","non":""},
 
             {"id":11,"firstTittel":"پاوربانک و جامپ استارتر","tittel":"پاوربانک 50000 میلی آمپر 22.5 واتی...","rating":{"del":"","price":"","toman":""},"img":"./src/images/slider_3/img-11.png","alt":"کابل شارژ مگنتی تایپ سی به لایتنینگ 36 واتی مک دودو مدل Mcdodo CA-2010","classes":"w-full h-[61px] mt-[9px] lg:mt-0 flex justify-center items-center bg-[#9b2c2c]/10 Shabnam text-[#9b2c2c] text-[14px]","non":"ناموجود"}
         ]
