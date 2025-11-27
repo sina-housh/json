@@ -68,7 +68,7 @@
 
             {"id":5,"firstTittel":"انواع گجت های جذاب","tittel":"پمپ باد گرین INFLATOR مدل Green Li...","rating":{"del":"680,000","price":"650,000","toman":"تومان"},"img":"./src/images/slider_3/img-5.png","alt":"پمپ باد گرین INFLATOR مدل Green Lion GNTYIRNFBK","classes":"","non":""},
 
-            {"id":6,"firstTittel":"رابط برق و USB","tittel":"پمپ باد گرین INFLATOR مدل Green Li...","rating":{"del":"","price":"","toman":""},"img":"./src/images/slider_3/img-6.png","alt":"پمپ باد گرین INFLATOR مدل Green Lion GNTYIRNFBK","classes":"w-full h-[61px] mt-[9px] lg:mt-0 flex justify-center items-center bg-[#9b2c2c]/10 Shabnam text-[#9b2c2c] text-[14px]","non":"ناوجود"},
+            {"id":6,"firstTittel":"رابط برق و USB","tittel":"پمپ باد گرین INFLATOR مدل Green Li...","rating":{"del":"","price":"","toman":""},"img":"./src/images/slider_3/img-6.png","alt":"پمپ باد گرین INFLATOR مدل Green Lion GNTYIRNFBK","classes":"w-full h-[61px] mt-[9px] lg:mt-0 flex justify-center items-center bg-[#9b2c2c]/10 Shabnam text-[#9b2c2c] text-[14px]","non":"ناموجود"},
 
             {"id":7,"firstTittel":"شارژر رومیزی","tittel":"شارژر رومیزی 140 واتی الدینیو مدل ...","rating":{"del":"","price":"2,395,000","toman":"تومان"},"img":"./src/images/slider_3/img-7.png","alt":"","classes":"","non":""},
             
@@ -79,6 +79,29 @@
             {"id":10,"firstTittel":"شارژر دیواری","tittel":"شارژر دیواری 20 واتی به همراه کابل...","rating":{"del":"","price":"950,000","toman":"تومان"},"img":"./src/images/slider_3/img-10.png","alt":"","classes":"","non":""},
 
             {"id":11,"firstTittel":"پاوربانک و جامپ استارتر","tittel":"پاوربانک 50000 میلی آمپر 22.5 واتی...","rating":{"del":"","price":"","toman":""},"img":"./src/images/slider_3/img-11.png","alt":"کابل شارژ مگنتی تایپ سی به لایتنینگ 36 واتی مک دودو مدل Mcdodo CA-2010","classes":"w-full h-[61px] mt-[9px] lg:mt-0 flex justify-center items-center bg-[#9b2c2c]/10 Shabnam text-[#9b2c2c] text-[14px]","non":"ناموجود"}
+        ],
+        "best_sellers":[
+             {"id":1,"firstTittel":"باتری آلکالاین","tittel":" باتری قلمی 10تایی شیائومی مدل Xiao...","rating":{"del":"","price":"299,000","toman":"تومان"},"img":"./src/images/best_sellers/img-1.png","alt":"باتری قلمی","classes":"","non":""},
+
+            {"id":2,"firstTittel":"ماوس و کیبورد و پدموس","tittel":"کیبورد بلوتوثی مافی مدل Mofii Phoe...","rating":{"del":"2,590,000","price":"2,390,000","toman":"تومان"},"img":"./src/images/best_sellers/img-2.png","alt":"کیبورد","classes":"","non":""},
+            
+            {"id":3,"firstTittel":"هندزفری بلوتوث دو گوش","tittel":"هندزفری بلوتوثی ورزشی القایی پاورو...","rating":{"del":"3,100,000","price":"2,800,000","toman":"تومان"},"img":"./src/images/best_sellers/img-3.png","alt":"هندرفری بلوتوثی","classes":"","non":""},
+
+            {"id":4,"firstTittel":"شارژر دیواری","tittel":"شارژر دیواری گان 100 واتی الدینیو ...","rating":{"del":"3,280,000","price":"2,280,000","toman":"تومان"},"img":"./src/images/best_sellers/img-4.png","alt":"شارژر دیواری","classes":"","non":""},
+
+            {"id":5,"firstTittel":"هندزفری بلوتوث دو گوش","tittel":"هندزفری بلوتوثی A30i انکر مدل Anke...","rating":{"del":"","price":"","toman":""},"img":"./src/images/best_sellers/img-5.png","alt":"هندزفری بلوتوثی دو گوش","classes":"w-full h-[61px] mt-[9px] lg:mt-0 flex justify-center items-center bg-[#9b2c2c]/10 Shabnam text-[#9b2c2c] text-[14px]","non":"ناموجود"},
+
+            {"id":6,"firstTittel":"انواع گجت های جذاب","tittel":"هاب تایپ سی 6 کاره انکر مدل Anker ...","rating":{"del":"","price":"","toman":""},"img":"./src/images/best_sellers/img-6.png","alt":"تایپ سی","classes":"w-full h-[61px] mt-[9px] lg:mt-0 flex justify-center items-center bg-[#9b2c2c]/10 Shabnam text-[#9b2c2c] text-[14px]","non":"ناموجود"},
+
+            {"id":7,"firstTittel":"انواع گجت های جذاب","tittel":"جامپ استاتر و پمپ باد گرین مدل Gre...","rating":{"del":"","price":"","toman":""},"img":"./src/images/best_sellers/img-7.png","alt":"پمپ باد","classes":"w-full h-[61px] mt-[9px] lg:mt-0 flex justify-center items-center bg-[#9b2c2c]/10 Shabnam text-[#9b2c2c] text-[14px]","non":"ناموجود"},
+            
+            {"id":8,"firstTittel":"انواع گجت های جذاب","tittel":"پمپ باد گرین INFLATOR مدل Green Li...","rating":{"del":"","price":"","toman":""},"img":"./src/images/best_sellers/img-8.png","alt":"پمپ باد گرین","classes":"w-full h-[61px] mt-[9px] lg:mt-0 flex justify-center items-center bg-[#9b2c2c]/10 Shabnam text-[#9b2c2c] text-[14px]","non":"ناموجود"},
+
+            {"id":9,"firstTittel":"شارژر دیواری","tittel":"شارژر دیواری 67 واتی گان با کابل ت...","rating":{"del":"2,505,000","price":"2,269,000","toman":"تومان"},"img":"./src/images/best_sellers/img-9.png","alt":"شارژر دیواری واگان","classes":"","non":""},
+
+            {"id":10,"firstTittel":"شارژر دیواری","tittel":"شارژر دیواری 25 وات هادرون مدل Had...","rating":{"del":"850,000","price":"820,000","toman":"تومان"},"img":"../src/images/best_sellers/img-10.png","alt":"شارژر دیواری","classes":"","non":""},
+
+            {"id":11,"firstTittel":"شارژر دیواری","tittel":"باتری نیم قلم 10 تایی شیائومی مدل ...","rating":{"del":"","price":"290,000","toman":"تومان"},"img":"../src/images/best_sellers/img-11.png","alt":"باتری قلمی","classes":"","non":""}
         ]
         
            
